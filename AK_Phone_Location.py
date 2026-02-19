@@ -73,8 +73,7 @@ try:
             formatted_number = phonenumbers.format_number(parsed_number, phonenumbers.PhoneNumberFormat.NATIONAL)
         except:
             formatted_number = "None"
-
-        # طباعة المعلومات
+            
         print(f"""
     [+] Phone        : {phone_number}
     [+] Formatted    : {formatted_number}
