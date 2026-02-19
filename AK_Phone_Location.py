@@ -25,7 +25,6 @@ import phonenumbers
 from phonenumbers import geocoder, carrier, timezone
 import time
 
-# شعار الأداة
 print('\033[1;32m===========================================================\033[0m')
 print("\033[1;32m               AK Phone Number Location       \033[0m")
 print('\033[1;32m            Telegram : https://t.me/AKServer404       \033[0m')
